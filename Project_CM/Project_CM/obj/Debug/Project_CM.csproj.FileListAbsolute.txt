@@ -1,0 +1,14 @@
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\bin\Debug\Project_CM.exe.config
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\bin\Debug\Project_CM.exe
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\bin\Debug\Project_CM.pdb
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\bin\Debug\MetroFramework.Design.dll
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\bin\Debug\MetroFramework.dll
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\bin\Debug\MetroFramework.Fonts.dll
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\obj\Debug\Project_CM.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\obj\Debug\Project_CM.Project_CM.resources
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\obj\Debug\Project_CM.Properties.Resources.resources
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\obj\Debug\Project_CM.csproj.GenerateResource.cache
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\obj\Debug\Project_CM.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\obj\Debug\Project_CM.csproj.CopyComplete
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\obj\Debug\Project_CM.exe
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_CM\Project_CM\obj\Debug\Project_CM.pdb
