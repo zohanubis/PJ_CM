@@ -16,3 +16,4 @@ D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj
 D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj\Debug\Project_DotNet.exe
 D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj\Debug\Project_DotNet.pdb
 D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj\Debug\Project_DotNet.Loading.resources
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj\Debug\Project_DotNet.DashBoard.resources

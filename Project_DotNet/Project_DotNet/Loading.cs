@@ -22,6 +22,9 @@ namespace Project_DotNet
             if(guna2CircleProgressBar1.Value == 99)
             {
                 timer1.Stop();
+                DashBoard p = new DashBoard();
+                p.Show();
+                this.Hide();
             }
             guna2CircleProgressBar1.Value += 1;
             label_Val.Text = (Convert.ToInt32(label_Val.Text)+1).ToString();
