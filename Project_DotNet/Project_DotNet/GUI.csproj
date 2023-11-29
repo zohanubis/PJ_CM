@@ -77,34 +77,103 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DashBoard.cs">
+    <Compile Include="CapNhatVatTu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DashBoard.Designer.cs">
-      <DependentUpon>DashBoard.cs</DependentUpon>
+    <Compile Include="CapNhatVatTu.Designer.cs">
+      <DependentUpon>CapNhatVatTu.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="DashBoard_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="DashBoard_Admin.Designer.cs">
+      <DependentUpon>DashBoard_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Loading.cs">
+    <Compile Include="DashBoard_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Loading.Designer.cs">
-      <DependentUpon>Loading.cs</DependentUpon>
+    <Compile Include="DashBoard_User.Designer.cs">
+      <DependentUpon>DashBoard_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiemTraVatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiemTraVatTu.Designer.cs">
+      <DependentUpon>KiemTraVatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading_User.Designer.cs">
+      <DependentUpon>Loading_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading_Admin.Designer.cs">
+      <DependentUpon>Loading_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MuaVatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MuaVatTu.Designer.cs">
+      <DependentUpon>MuaVatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="DashBoard.resx">
-      <DependentUpon>DashBoard.cs</DependentUpon>
+    <Compile Include="ThemVatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemVatTu.Designer.cs">
+      <DependentUpon>ThemVatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinVatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinVatTu.Designer.cs">
+      <DependentUpon>ThongTinVatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimKiemVatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimKiemVatTu.Designer.cs">
+      <DependentUpon>TimKiemVatTu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CapNhatVatTu.resx">
+      <DependentUpon>CapNhatVatTu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="DashBoard_Admin.resx">
+      <DependentUpon>DashBoard_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Loading.resx">
-      <DependentUpon>Loading.cs</DependentUpon>
+    <EmbeddedResource Include="KiemTraVatTu.resx">
+      <DependentUpon>KiemTraVatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading_User.resx">
+      <DependentUpon>Loading_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading_Admin.resx">
+      <DependentUpon>Loading_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MuaVatTu.resx">
+      <DependentUpon>MuaVatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -117,6 +186,15 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ThemVatTu.resx">
+      <DependentUpon>ThemVatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinVatTu.resx">
+      <DependentUpon>ThongTinVatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimKiemVatTu.resx">
+      <DependentUpon>TimKiemVatTu.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -141,10 +219,73 @@
     <None Include="Resources\icons8-user-50.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\icons8-dashboard-64 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-basket-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-invoice-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-product-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-categories-64.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\icons8-user-80.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\icons8-dashboard-64 %281%29.png" />
+    <None Include="Resources\dashboard_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bill-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delivery-box-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\categories_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-product-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H1DTRfI.md.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-pj1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sign-up-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-goods-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-find-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-update-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-check-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-buy-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sign-out-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-reset-48.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Fody.4.0.2\build\Fody.targets" Condition="Exists('..\packages\Fody.4.0.2\build\Fody.targets')" />

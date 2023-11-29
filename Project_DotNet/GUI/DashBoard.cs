@@ -8,25 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project_DotNet
+namespace GUI
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void guna2Btn_Signin_Click(object sender, EventArgs e)
-        {
-            Loading _load = new Loading();
-            _load.Show();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            guna2ShadowForm1.SetShadowForm(this);
-
         }
     }
 }
