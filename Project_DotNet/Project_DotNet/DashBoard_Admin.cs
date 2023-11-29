@@ -93,7 +93,7 @@ namespace Project_DotNet
         private void btnTimKiemVatTu_Click(object sender, EventArgs e)
         {
             OpenChildForm(new TimKiemVatTu());
-            label_val.Text = btnKiemTraVatTu.Text;
+            label_val.Text = btnTimKiemVatTu.Text;
         }
     }
 }

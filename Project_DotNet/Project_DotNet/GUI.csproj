@@ -157,6 +157,9 @@
     <EmbeddedResource Include="DashBoard_Admin.resx">
       <DependentUpon>DashBoard_Admin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard_User.resx">
+      <DependentUpon>DashBoard_User.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="KiemTraVatTu.resx">
       <DependentUpon>KiemTraVatTu.cs</DependentUpon>
     </EmbeddedResource>
@@ -286,6 +289,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icons8-reset-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-100.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Fody.4.0.2\build\Fody.targets" Condition="Exists('..\packages\Fody.4.0.2\build\Fody.targets')" />

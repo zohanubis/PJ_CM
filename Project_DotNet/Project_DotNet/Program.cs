@@ -16,7 +16,7 @@ namespace Project_DotNet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login());
+            Application.Run(new TimKiemVatTu());
         }
     }
 }

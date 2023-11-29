@@ -25,3 +25,4 @@ D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj
 D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj\Debug\Project_DotNet.ThongTinVatTu.resources
 D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj\Debug\Project_DotNet.TimKiemVatTu.resources
 D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj\Debug\Project_DotNet.Loading_User.resources
+D:\Visual Studio 2019 - Github\zohanubis\PJ_CM\Project_DotNet\Project_DotNet\obj\Debug\Project_DotNet.DashBoard_User.resources
