@@ -156,5 +156,10 @@ namespace Project_DotNet
         {
             load_grid();
         }
+
+        private void dataGridView_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

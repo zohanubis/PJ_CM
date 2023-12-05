@@ -181,5 +181,9 @@ namespace Project_DotNet
             }
         }
 
+        private void dataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

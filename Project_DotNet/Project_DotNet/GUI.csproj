@@ -95,6 +95,7 @@
     <Compile Include="DashBoard_User.Designer.cs">
       <DependentUpon>DashBoard_User.cs</DependentUpon>
     </Compile>
+    <Compile Include="DBConnect.cs" />
     <Compile Include="KiemTraVatTu.cs">
       <SubType>Form</SubType>
     </Compile>
